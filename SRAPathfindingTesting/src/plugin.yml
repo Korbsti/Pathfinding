@@ -1,0 +1,6 @@
+name: SRAPathfindingTesting
+version: 0.0.1
+description: Pathfinding API plugin
+author: Korbsti
+main: me.korbsti.pathfinding.Main
+api-version: 1.17
